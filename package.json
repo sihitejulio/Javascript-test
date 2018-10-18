@@ -1,0 +1,14 @@
+{
+  "name": "javascript-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "hagai",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
